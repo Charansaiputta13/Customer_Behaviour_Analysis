@@ -1,4 +1,4 @@
-# 🛒 Customer Shopping Behavior Analysis  
+# 🛒 Data-Driven Customer Behavior Analytics for Revenue Optimization 
 **A complete end-to-end Data Analytics project using Python, SQL, and Power BI**
 
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
